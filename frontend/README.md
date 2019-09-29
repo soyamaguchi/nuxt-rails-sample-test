@@ -1,6 +1,6 @@
 # frontend
 
-> nuxt-rails-sample frontend
+> nuxt-rails-sample-test frontend
 
 ## Build Setup
 
